@@ -26,8 +26,8 @@
 				</div>
 			</div>
 			<div class="col-span-2 row-span-2 flex flex-col items-center justify-center border-b border-gray-200 bg-white p-8 text-center z-10">
-				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[03] ATS & CRM Integrations</div>
-				<h2 class="text-4xl font-medium tracking-tight text-gray-900">Integrates with tools you use</h2>
+				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-400 uppercase">[03] ATS & CRM Integrations</div>
+				<h2 class="text-4xl font-bold tracking-tight text-gray-900">Fits into your existing workflow</h2>
 			</div>
 
 			<!-- Row 3 (Adjusted for colspan) -->

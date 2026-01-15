@@ -2,28 +2,28 @@
 	let openIndex = 0;
 	const faqs = [
 		{
-			question: "Who can use Juicebox?",
-			answer: "Juicebox is built for recruiters. If you are searching for hard-to-find talent, Juicebox is a fit for you. We work with companies ranging from Fortune 500 to boutique recruiting agencies — and hopefully, you too."
+			question: "Who is HiPeople for?",
+			answer: "HiPeople is designed for mid-market and enterprise talent teams who need to scale their hiring without compromising on quality. It's especially powerful for teams drowning in manual screening and reference check work."
 		},
 		{
-			question: "Can I try Juicebox for free?",
-			answer: "Yes! We offer a free trial so you can experience the power of our AI agents firsthand."
+			question: "How does the AI screening work?",
+			answer: "Our AI analyzes candidate profiles and resumes against your specific job requirements, scoring them based on skills, experience, and potential. It surfaces the best matches so you can focus your time on high-potential candidates."
 		},
 		{
-			question: "Can I use Juicebox with my team?",
-			answer: "Absolutely. Juicebox is designed for collaboration, allowing your entire recruiting team to share insights and candidate pools."
+			question: "Is HiPeople compliant and secure?",
+			answer: "Yes. We are SOC 2 Type II certified and GDPR compliant. Security and data privacy are at the core of our platform, making us a trusted partner for enterprise HR teams."
 		},
 		{
-			question: "How long does it take to set up and start using Juicebox?",
-			answer: "You can get started in minutes. Our onboarding is streamlined to get you sourcing candidates immediately."
+			question: "How long do reference checks take?",
+			answer: "While manual reference checks can take days or weeks, HiPeople automates the process, often delivering structured feedback in just a few hours."
 		},
 		{
-			question: "Does Juicebox have global candidate data?",
-			answer: "Yes, we have access to over 800M+ profiles globally across various industries and regions."
+			question: "Does it integrate with my ATS?",
+			answer: "Absolutely. We offer deep integrations with Greenhouse, Lever, Workday, SmartRecruiters, Ashby, and many more, ensuring HiPeople fits seamlessly into your existing workflow."
 		},
 		{
-			question: "Will it integrate with my ATS or CRM?",
-			answer: "We integrate with all major ATS and CRM platforms including Greenhouse, Lever, Ashby, and more."
+			question: "Can I customize the assessments?",
+			answer: "Yes, you can choose from our library of validated assessments or work with us to create custom evaluations tailored to your specific role requirements."
 		}
 	];
 </script>
@@ -33,12 +33,12 @@
 		<div class="grid grid-cols-1 gap-16 lg:grid-cols-12">
 			<!-- Left Side -->
 			<div class="lg:col-span-4">
-				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[06] FAQ</div>
-				<h2 class="mb-6 text-4xl font-medium tracking-tight text-gray-900">Your questions, answered</h2>
+				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-400 uppercase">[06] FAQ</div>
+				<h2 class="mb-6 text-4xl font-bold tracking-tight text-gray-900">Your questions, answered</h2>
 				<p class="mb-8 text-lg leading-relaxed text-gray-600">
-					We're here to help. Reach out to our sales team for guidance on how to integrate Juicebox into your recruiting workflow.
+					We're here to help. Reach out to our team for guidance on how to integrate HiPeople into your hiring workflow.
 				</p>
-				<a href="#" class="inline-block bg-gray-900 px-6 py-3 text-[11px] font-bold tracking-widest text-white transition-colors hover:bg-gray-800 uppercase">
+				<a href="#" class="inline-block bg-gray-900 px-8 py-4 text-[11px] font-bold tracking-widest text-white transition-all hover:bg-primary-600 uppercase">
 					Book a Demo
 				</a>
 			</div>
