@@ -29,7 +29,7 @@
 
 			<!-- Headline -->
 			<h1 class="mb-6 text-7xl font-medium tracking-tight text-gray-900">
-				Win the talent war.
+				Win the talents wars.
 			</h1>
 
 			<!-- Subhead -->
